@@ -35,11 +35,12 @@ This is a WPF application for managing student enrollments in courses. It allows
 
 These are default student login information used in the application. The login information can be found in the SQL file also.
 
-**('300111222','password')
-('300222333','test')
-('300333444','password')
-('300444555','password')
-**
+
+**1. ('300111222','password')
+2. ('300222333','test')
+3. ('300333444','password')
+4. ('300444555','password')**
+
 ## Screenshots of the application.
 
 1. Login Page
